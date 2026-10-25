@@ -67,7 +67,7 @@
     "rehype-highlight": "^7.0.0",
     "remark-gfm": "^4.0.0",
     "simplebar-react": "^3.2.4",
-    "stripe": "^14.9.0",
+    "stripe": "^23.0.0",
     "tailwind-merge": "^2.0.0",
     "tailwind-scrollbar": "^3.0.5",
     "tailwindcss-animate": "^1.0.7",
